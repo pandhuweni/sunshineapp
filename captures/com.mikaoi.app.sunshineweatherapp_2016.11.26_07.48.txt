@@ -1,0 +1,48 @@
+TASK com.mikaoi.app.sunshineweatherapp id=267
+  ACTIVITY com.mikaoi.app.sunshineweatherapp/.MainActivity 6271cb pid=16915
+    Local FragmentActivity 2e85d3d0 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    Active Fragments in 23268fdb:
+      #0: ForecastFragment{15a22a78 #0 id=0x7f0c0071}
+        mFragmentId=#7f0c0071 mContainerId=#ffffffff mTag=null
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=true mInLayout=true
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=true
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{23268fdb in HostCallbacks{2fccd551}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@2fccd551
+        mSavedViewState={2131492977=android.view.AbsSavedState$1@10dbb1b6, 2131492991=AbsListView.SavedState{6744eb7 selectedId=0 firstId=-1 viewTop=0 position=0 height=0 filter=null checkState=null}}
+        mView=android.widget.FrameLayout{3fde4de V.E..... ......I. 0,0-0,0 #7f0c0071 app:id/fragment}
+        mInnerView=android.widget.FrameLayout{3fde4de V.E..... ......I. 0,0-0,0 #7f0c0071 app:id/fragment}
+        Child FragmentManager{80b7624 in ForecastFragment{15a22a78}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@2fccd551
+            mContainer=android.support.v4.app.Fragment$1@2eb8758d
+            mParent=ForecastFragment{15a22a78 #0 id=0x7f0c0071}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: ForecastFragment{15a22a78 #0 id=0x7f0c0071}
+    Fragments Created Menus:
+      #0: ForecastFragment{15a22a78 #0 id=0x7f0c0071}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@2fccd551
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@2fccd551
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{10693342 V.E..... ... 0,0-0,0}
+        android.widget.LinearLayout{31751f53 V.E..... ... 0,0-0,0}
+          android.view.ViewStub{b9bd090 G.E..... ... 0,0-0,0 #1020376}
+          android.widget.FrameLayout{a43dd89 V.E..... ... 0,0-0,0}
+            android.support.v7.widget.FitWindowsLinearLayout{2d5b418e V.E..... ... 0,0-0,0 #7f0c005b app:id/action_bar_root}
+              android.support.v7.widget.ViewStubCompat{1fa85daf G.E..... ... 0,0-0,0 #7f0c005c app:id/action_mode_bar_stub}
+              android.support.v7.widget.ContentFrameLayout{2b9565bc V.E..... ... 0,0-0,0 #1020002 android:id/content}
+                android.support.design.widget.CoordinatorLayout{3f03c945 V.ED.... ... 0,0-0,0}
+                  android.support.design.widget.AppBarLayout{2928bc19 V.E..... ... 0,0-0,0}
+                    android.support.v7.widget.Toolbar{2c4de89a V.E..... ... 0,0-0,0 #7f0c006f app:id/toolbar}
+                      android.support.v7.widget.AppCompatTextView{1b2725cb V.ED.... ... 0,0-0,0}
+                      android.support.v7.widget.ActionMenuView{33121a8 V.E..... ... 0,0-0,0}
+                        android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton{41cb4c1 VFED..CL ... 0,0-0,0}
+                  android.widget.FrameLayout{3fde4de V.E..... ... 0,0-0,0 #7f0c0071 app:id/fragment}
+                    android.widget.ListView{d91f466 VFED.VC. F.. 0,0-0,0 #7f0c007f app:id/listview_forecast}
+                  android.support.design.widget.FloatingActionButton{308a46bf VFED..C. ... 0,0-0,0 #7f0c0070 app:id/fab}

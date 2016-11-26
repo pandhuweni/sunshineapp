@@ -156,21 +156,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35aa7040775559ecb0351371b306bba419524dd9">
+        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c73725dd2141f44c2207068ae1ae46227ae3caa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
         <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_b6e64f075dada4a4d01175292f8050fed24ae632/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="45063df102b67fcc565f9e2a30ea2270ec393917">
-        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c73725dd2141f44c2207068ae1ae46227ae3caa8/classes.dex" />
     </item>
     <item
         is-multidex="true"
