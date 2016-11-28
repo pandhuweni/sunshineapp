@@ -21,15 +21,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c22804db76a87d70c79a9bd868956fee15fec6da/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,11 +30,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_c22804db76a87d70c79a9bd868956fee15fec6da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d9ee8345a906f0c541375c6510ccc48ba0936d5e">
+        sha1="013236482f5468f1157c6ca93fce95caf2f51797">
         <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_580f4eb6c311b0dec48656d1a75fdd3220f104f0/classes.dex" />
     </item>
     <item
@@ -120,21 +120,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_57312a720615de943c01016e3c2329d9af9c7bf7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
         <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d018f8144256f3eef5ad416c2e646c6d3b20b60c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_57312a720615de943c01016e3c2329d9af9c7bf7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -160,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="35aa7040775559ecb0351371b306bba419524dd9">
+        sha1="1a4ab4c7dd60b3bb20588547057021294b8955c4">
         <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c73725dd2141f44c2207068ae1ae46227ae3caa8/classes.dex" />
     </item>
     <item
