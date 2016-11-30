@@ -38,6 +38,10 @@
                         android:name="android.support.PARENT_ACTIVITY"
                         android:value="com.mikaoi.app.sunshineweatherapp.MainActivity" />
         </activity>
+
+        <provider
+            android:authorities="com.mikaoi.app.sunshineweatherapp"
+            android:name=".data.WeatherProvider" />
     </application>
 
 </manifest>

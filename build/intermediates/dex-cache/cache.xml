@@ -160,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="1a4ab4c7dd60b3bb20588547057021294b8955c4">
+        sha1="b8b93531841af48509f5bc614c7eedd438a9f9ec">
         <dex dex="/home/ayu/AndroidStudioProjects/SunshineWeatherApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c73725dd2141f44c2207068ae1ae46227ae3caa8/classes.dex" />
     </item>
     <item
